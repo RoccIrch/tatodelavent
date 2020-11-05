@@ -1,0 +1,45 @@
+body{
+  background-color: grey;
+}
+header{
+  text-align: center;
+	padding: .5em 2em;
+}
+h1{
+  font-weight: bold;
+  color: red;
+  size: 3fr;
+}
+h2{
+  font-style: italic;
+  color: red;
+  size: 1fr;
+}
+
+ul{
+
+  margin: 2em;
+  list-style: none;
+  font-size: 2em;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-auto-rows: 1fr;
+  align-content: center;
+}
+li{
+  text-align: center;
+  border: solid black 2px;
+  border-radius: 5px;
+  margin: 5px;
+  font-size: 32px;
+}
+li:hover {
+color:white;
+background-color: lightgrey;
+border: solid black 2px;
+border-radius: 5px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
