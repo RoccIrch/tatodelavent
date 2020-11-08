@@ -1,0 +1,48 @@
+header{
+  width: auto;
+  padding: 0px;
+  margin: 2vw 10vw 1vw 10vw;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+h1{
+  margin: 0px;
+  padding: 0px;
+  font-size: 6vw;
+  font-weight: bold;
+  font-style: normal;
+}
+h3{
+  padding: 0px;
+  margin-top: 1vw;
+  font-size: 3vw;
+  font-weight: normal;
+  font-style: italic;
+  text-decoration: none;
+  color: red;
+}
+header a{
+  color: red;
+  text-decoration: none;
+}
+main{
+  padding: 0px;
+  margin: 1vw 10vw 1vw 10vw;
+  justify-content: center;
+  text-align: center;
+  align-content: center;
+}
+hr{
+  color: black;
+}
+footer{
+  padding: 0px;
+  margin: 1vw 0vw 0vw 0vw;
+  justify-content: flex-end;
+  text-align: left;
+}
+footer p{
+  padding: 0px;
+  margin: 0vw 0vw 0vw 1vw;
+}
