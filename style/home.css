@@ -1,3 +1,9 @@
+body{
+  background-image: url("background.png");
+  background-position: center right;
+  background-repeat: no-repeat;
+  background-size: 40vw;
+}
 ul{
   padding: 0px;
   margin: 3vw 0vw 3vw 0vw;
