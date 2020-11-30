@@ -2,16 +2,18 @@ h2{
   text-align: left;
   font-weight: bold;
   font-style: italic;
-  margin: 1em 3em 0em 3em;
+  margin: auto;
   font-size: 64px;
   border: solid green 2px;
   background-color: green;
   border-radius: 8px;
   color: white;
   padding: 0.25em 0em 0.25em 1em;
+  margin-bottom: 10px;
 }
 img{
+  width: 80%;
   padding: 0px;
-  margin: 0px;
+  margin: auto;
   border: 0px;
 }
